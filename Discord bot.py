@@ -114,4 +114,4 @@ async def on_message(message):
     if "im hungry" in message.content:
         await bot.send_message(message.channel, "Then why dont you cook some food, "+message.author.name)
 
-bot.run("NDM3ODY5MjQ5OTM2MDk3Mjg3.Db8VCA.uYYSClqjXH5_QSkOzcQiBuw4SSo")
+bot.run("###")
